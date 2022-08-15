@@ -1,0 +1,9 @@
+/**
+ * Student Contact Card
+ * Date: 8 - 5 - 22
+ * Purpose: To provide information about myself
+ * @author Mac Lawson
+ */
+
+ PMR:
+    This assignment was fine. I used the IDE I use for all development, VS Code, with the standard Microsoft Java Plugins. No compile errors were encountered. 
