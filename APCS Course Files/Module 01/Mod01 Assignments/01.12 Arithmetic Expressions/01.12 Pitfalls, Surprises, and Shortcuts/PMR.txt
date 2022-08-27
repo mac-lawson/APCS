@@ -1,0 +1,10 @@
+/**
+ * 
+ * Grade Calculator
+ * {@summary} Date: 8 - 23 - 22
+ * {@summary} Purpose: To calculate information about grades including average score, total points, etc.
+ * @author Mac Lawson
+ */
+
+ This assignment was very straightforward and explained well. Only error encountered was a series of build errors on VS Code. 
+ Once I reset my JVM (temurin-11), this error was fixed. After this issue, no build/compile errors were encountered.

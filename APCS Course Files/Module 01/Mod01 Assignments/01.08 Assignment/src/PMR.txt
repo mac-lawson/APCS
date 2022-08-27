@@ -1,0 +1,9 @@
+/**
+ * 
+ * @author Mac Lawson
+ * {@summary} Date: 8/16/22
+ * {@summary} Purpose: To display different arithmetic operations using Java!
+ */
+
+ Like the first assignment, I used VS Code with the Java plugins provided by microsoft. 
+ No compile errors were encountered during the programming process, and it was a pretty straightforward assignment.

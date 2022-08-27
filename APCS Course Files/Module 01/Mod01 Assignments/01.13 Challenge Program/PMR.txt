@@ -1,0 +1,13 @@
+/**
+ * 
+ * Currency Converter
+ * {@summary} Date: 8 - 26 - 22
+ * {@summary} Purpose: To calculate currency conversions and money spent in remaining on a trip. 
+ * @author Mac Lawson
+ */
+
+ Experience was all OK with this project. Only problem was a slight issue with logic on my end with the currency conversion rate. 
+
+ After a quick rethink, everything was fixed and program ran normally. 
+
+ No compile/build errors were encountered, and VS Code was used with Microsoft's Java Integrations. 
