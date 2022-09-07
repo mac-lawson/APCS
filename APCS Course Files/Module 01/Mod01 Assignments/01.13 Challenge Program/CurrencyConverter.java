@@ -5,11 +5,11 @@
  * {@summary} Purpose: To calculate currency conversions and money spent along with remaining funds on a trip. 
  * @author Mac Lawson
  */
-
+import java.lang.Math;
 public class CurrencyConverter
 {
     public static void main(String [ ] args)
-    {
+    {   
         double startingUSDollars = 5000.00;		// US Dollars.
         double pesosSpent = 489;            // Mexican pesos spent.
         double pesoExchangeRate = 19.91;    // US Dollars to Pesos.
@@ -21,7 +21,7 @@ public class CurrencyConverter
         double dollarsSpentInJapan = yensSpent / yenExchangeRate;	// dollars spent in Japan.
         double dollarsSpentInEurope = eurosSpent / euroExchangeRate;		//dollars spent in Europe.
         double remainingUsDollars = startingUSDollars - dollarsSpentInMexico - dollarsSpentInJapan - dollarsSpentInEurope;        // local variable for US Dollars remaining.
-
+        
         // Info
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         System.out.println("This program converts an amount of money");

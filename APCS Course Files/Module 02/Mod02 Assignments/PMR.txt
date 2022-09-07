@@ -1,0 +1,9 @@
+/**
+ * 
+ * Currency Converter
+ * {@summary} Date: 9 - 1 - 22
+ * {@summary} Purpose: Calculate the hyp. of two triangles
+ * @author Mac Lawson
+ */
+
+ Used VS Code like usual. No errors were encountered. Used the Java Math Class for finding the sides and hypotenuse with Math.pow and Math.sqrt methods.

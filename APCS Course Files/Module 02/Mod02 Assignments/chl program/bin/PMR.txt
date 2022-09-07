@@ -1,0 +1,7 @@
+/**
+ * Name: Mac Lawson
+ * Date: 9/6/22
+ * Java class to buy movie tickets and product and receipt
+ */
+
+ Overall program development went very well. Only issue encountered was the terminal shutdown in VS Code for a minute, but after clearing the window cache this issue was fixed. 
