@@ -1,0 +1,7 @@
+/**
+ * @author Mac Lawson
+ * Date: 9/16/22
+ * A program to calculate BMI
+ */
+
+ No errors were encountered with program. VS Code with Java Developer Extensions was used.

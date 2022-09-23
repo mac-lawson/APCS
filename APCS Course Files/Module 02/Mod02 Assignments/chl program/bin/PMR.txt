@@ -4,4 +4,7 @@
  * Java class to buy movie tickets and product and receipt
  */
 
- Overall program development went very well. Only issue encountered was the terminal shutdown in VS Code for a minute, but after clearing the window cache this issue was fixed. 
+ Overall program development went very well. Only issue encountered was the terminal shutdown in VS Code for a minute, but after clearing the window cache this issue was fixed.
+ --EDIT--
+ An error was reported due to the fact that the ticket amount/price inputs were ints. 
+ They were changed to doubles.  

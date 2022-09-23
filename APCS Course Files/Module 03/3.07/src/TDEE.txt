@@ -1,0 +1,12 @@
+/**
+ * Mac Lawson
+ * A program to calculate the TDEE of a person!
+ * Date: 9/20/22
+ * AP Comp Sci A
+ */
+
+ PMR: 
+ Only issued encountered was an issue where I was not getting the raw value of strings,
+ and therefore the if statements were not working. After a few minutes of debugging, 
+ I realized I had not used the .valueOf method and therefore the if statement
+ was running, but not as intended. Otherwise, no issues were encountered. 

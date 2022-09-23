@@ -27,15 +27,15 @@ public class BuyMovieTickets {
         String movieSelected = input.next();
         System.out.print("\n"); 
         
-        System.out.print("Ticket Ammount: ");
+        System.out.print("Ticket Amount: ");
         String ticketsPurchased = input.next();
-        Integer totalTickets = Integer.parseInt(ticketsPurchased);
+        Double totalTickets = Double.parseDouble(ticketsPurchased);
         System.out.print("\n");  
 
         System.out.print("Price Per Ticket: ");
         String ticketPrice = input.next();
-        Integer priceOfTickets = Integer.parseInt(ticketPrice);
-        Double totalPrice = (double) priceOfTickets * (double) totalTickets;
+        Double priceOfTickets = Double.parseDouble(ticketPrice);
+        Double totalPrice = priceOfTickets * totalTickets;
         System.out.print("\n");  
 
         System.out.print("Credit/Debit Card Number (#####-###-####): ");
