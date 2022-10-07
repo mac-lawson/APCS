@@ -1,0 +1,13 @@
+/**
+ * Randomly generate passwords.
+ *
+ * @author Mac Lawson
+ * @date 9/30/22
+ * 
+ */
+
+ PMR:
+
+ Had a slight issue to comparing the string to continue the program. 
+ After working on it, I figured out that I was not properly using the
+ .contains method. Otherwise, no issues were encountered. 

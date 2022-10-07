@@ -1,0 +1,10 @@
+/**
+ * 
+ * @author Mac Lawson
+ * @version 10-5-22
+ * 
+ * Math Trick
+ *
+ */
+
+ No major problems were encountered with this assignment. Only slight error was an issue with the returning of a string from one of the methods, but I had forgotten to convert the Integer to a string.

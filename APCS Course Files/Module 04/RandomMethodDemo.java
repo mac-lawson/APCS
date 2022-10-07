@@ -10,15 +10,12 @@ public class RandomMethodDemo
 {
     public static void main(String [] args)
     {
-        double randomNumber;
-        int counter = 0;
-
-        while(counter < 10)
+        int x = 1;
+        while(x < 18)
         {
-            randomNumber = Math.random();
-            System.out.println(counter + ":  " + randomNumber);
-            counter ++;
-        }//end of while loop
+        x += 5;
+        }
+        System.out.println(x); 
     }//end of main method
 }//end of class
 

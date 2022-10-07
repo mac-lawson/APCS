@@ -1,0 +1,9 @@
+/**
+ * @author Mac Lawson
+ * AP Computer Science A
+ * 9/26/22
+ * A program demonstrating reading text files and comparing their values
+ */
+
+ During this assignment, I only encountered one problem. I forgot to cast my final numbers
+ to doubles before displaying the final percentages. 
