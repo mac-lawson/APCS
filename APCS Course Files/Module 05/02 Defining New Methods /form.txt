@@ -1,0 +1,11 @@
+Formula Used
+Force = (2*[G.]*Mass 1*Mass 2)/Radius^2
+F = (2*[G.]*m1*m2)/r^2
+This formula uses 1 Constants, 4 Variables
+Constants Used
+[G.] - Gravitational constant Value Taken As 6.67408E-11 * Meter³/Kiogram Second²
+Variables Used
+Force - (Measured in Newton) - Force is any interaction that, when unopposed, will change the motion of an object. In other words, a force can cause an object with mass to change its velocity.
+Mass 1 - (Measured in Kilogram) - Mass 1 is the quantity of matter in a body 1 regardless of its volume or of any forces acting on it.
+Mass 2 - (Measured in Kilogram) - Mass 2 is the quantity of matter in a body 2 regardless of its volume or of any forces acting on it.
+Radius - (Measured in Meter) - Radius is a radial line from the focus to any point of a curve.

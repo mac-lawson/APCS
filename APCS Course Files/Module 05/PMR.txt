@@ -1,0 +1,9 @@
+/**
+ * Mac Lawson
+ * AP Computer Science
+ * 10/12/22
+ * A program to calculate planetary information
+ */
+
+ No errors were encountered. I chose to the the planet Neptune, and double checked by program
+ output with the NASA website. 

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=calculate
+comment0.text=\n\ @author\ Mac\ Lawson\n\ @date\ 11/11/22\n\ Calculate\ class\n
+comment1.params=
+comment1.target=calculate()
+comment1.text=\n\ Constructutor\ for\ calculate()\n
+comment2.params=grade1\ grade2
+comment2.target=java.lang.Double\ average(java.lang.Double,\ java.lang.Double)
+comment3.params=grade1\ grade2
+comment3.target=java.lang.Double\ differance(java.lang.Double,\ java.lang.Double)
+numComments=4

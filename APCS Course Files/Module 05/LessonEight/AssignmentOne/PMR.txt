@@ -1,0 +1,7 @@
+/**
+ * AP Computer Science
+ * 11/1/22
+ * @author Mac Lawson
+ */
+
+No errors were encountered. Program was very straight forward and similar to the previous assignment. 

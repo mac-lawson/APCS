@@ -1,0 +1,8 @@
+/**
+ * @author Mac Lawson
+ * AP Computer Science A
+ * 10/31/22
+ * Program to demonstrate class implementation
+ */
+
+ No critical errors were encountered and overall project was simple to complete. 

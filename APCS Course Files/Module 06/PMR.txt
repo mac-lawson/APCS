@@ -1,0 +1,6 @@
+ * @author Mac Lawson
+ * 11/18/22
+
+ PMR:
+
+ No major errors were encountered, only a simple compiler error when I first did on iteration of the for loop to read the arrays. 
