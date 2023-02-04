@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MusicTester
+comment0.text=\n\ Tester\ class\ for\ Music.javas\n\n\ @author\ Mac\ Lawson\n\ @version\ 1/26/23\n
+comment1.params=array\ value
+comment1.target=void\ searchTitle(Music[],\ java.lang.String)
+comment2.params=array\ year
+comment2.target=void\ searchYear(Music[],\ java.lang.Integer)
+comment3.params=array\ value
+comment3.target=void\ searchArtist(Music[],\ java.lang.String)
+comment4.params=array
+comment4.target=void\ printArray(Music[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

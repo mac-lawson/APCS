@@ -1,0 +1,1 @@
+No issues were found during this assignment. I used ArrayList.

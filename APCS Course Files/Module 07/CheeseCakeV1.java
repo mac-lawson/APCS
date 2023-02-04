@@ -1,8 +1,8 @@
 /**
- * @purpose
+ * @CheeseCake class
  *
- * @author (enter your name)
- * @version (enter today's date)
+ * @author Mac Lawson
+ * @version 12/18/22
  *
  */
 public class CheeseCakeV1
@@ -18,7 +18,8 @@ public class CheeseCakeV1
     */
     CheeseCakeV1(String flavor,int quantity)
     {
-        //******* fill in code for constructor here ****//
+        myFlavor = flavor;
+        myQuantity = quantity;
     }
 
     /**
@@ -26,7 +27,7 @@ public class CheeseCakeV1
      */
     public void calcTotalServings()
     {
-        //******* fill in code for method here - 16 servings per cake ****//
+        myServings = (myQuantity * 16);
     }
 
     /**
@@ -34,7 +35,7 @@ public class CheeseCakeV1
      */
     public void calcCreamCheese()
     {
-        //******* fill in rest of method here - 32 ounces per cake ****//
+        myCreamCheese = (myQuantity * 32);
     }
 
     /**
@@ -42,7 +43,7 @@ public class CheeseCakeV1
      */
     public void calcVanilla()
     {
-        //******* fill in rest of method here - 1 teaspoon per cake ****//
+        myVanilla = (myQuantity * 1);
     }
 
     /**
@@ -50,7 +51,7 @@ public class CheeseCakeV1
      */
     public void calcSugar()
     {
-        //******* fill in rest of method here - 1/3 cup per cake ****//
+         mySugar = (myQuantity * (.33333333333));
     }    
 
     /**
@@ -101,9 +102,11 @@ public class CheeseCakeV1
         return myServings;
     }
     
-    public String toString()
-    {
-        //******* Practice your printf() skills by formatting this data! ****//
-        return String.format("The data that matches the headings in the CheeseCakeV1 file");
-    }
+public String toString() {
+    return String.format("\t\t %d \t%s \t %doz \t\t%d \t%.2f \t\t%d \t\t",
+           myQuantity, myFlavor,  myCreamCheese, myServings, getSugar(), getVanilla());
+}
+
+
+
 }

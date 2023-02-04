@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MovieTesterV2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=movies
+comment2.target=void\ printArray(Movie[])
+comment3.params=movies\ order
+comment3.target=void\ sortByTitle(Movie[],\ int)
+comment4.params=movies\ order
+comment4.target=void\ sortByYear(Movie[],\ int)
+comment5.params=movies\ order
+comment5.target=void\ sortByStudio(Movie[],\ int)
+comment6.params=a\ b\ order
+comment6.target=int\ compareByTitle(Movie,\ Movie,\ int)
+comment7.params=a\ b\ order
+comment7.target=int\ compareByYear(Movie,\ Movie,\ int)
+comment8.params=a\ b\ order
+comment8.target=int\ compareByStudio(Movie,\ Movie,\ int)
+numComments=9

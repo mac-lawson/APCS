@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment0.text=\n\ Tester\ class\ for\ Music.javas\n\n\ @author\ Mac\ Lawson\n\ @version\ 2/3/23\n
+comment1.params=library
+comment1.target=void\ sortMusicLibraryByTitle(Music[])
+comment2.params=library
+comment2.target=void\ sortMusicLibraryByYear(Music[])
+comment3.params=library
+comment3.target=void\ sortMusicLibraryByArtist(Music[])
+comment4.params=array\ year
+comment4.target=void\ binarySearchByYear(Music[],\ int)
+comment5.params=array\ artist
+comment5.target=void\ binarySearchByArtist(Music[],\ java.lang.String)
+comment6.params=array\ title
+comment6.target=void\ binarySearchByTitle(Music[],\ java.lang.String)
+comment7.params=library
+comment7.target=void\ printMusicLibrary(Music[])
+comment8.params=musicLibrary
+comment8.target=void\ createArray(Music[])
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

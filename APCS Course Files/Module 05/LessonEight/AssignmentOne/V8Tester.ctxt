@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=V8Tester
+comment0.text=\n\ AP\ Computer\ Science\n\ 11/1/22\n\ @author\ Mac\ Lawson\n\n\ This\ class\ tests\ the\ V8\ class\ by\ constructing\ multiple\ V8\ objects\ and\n\ invoking\ their\ methods.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

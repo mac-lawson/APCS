@@ -1,0 +1,9 @@
+/**
+ * Author: Mac Lawson
+ * Date: 1/6/23
+ * Purpose: Hurricane class
+ */
+
+ PMR:
+
+ Challenger program was stright forward. Only issue was the first for loop. 
