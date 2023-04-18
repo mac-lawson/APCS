@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WinterMountain
+comment0.text=\n\ Extends\ the\ Mountain\ Class\ to\ create\ a\ Winter\ Mountain.\n\n\ @author\ Mac\ Lawson\n\ @version\ 2/27/23\n
+comment1.params=l\ w\ mountains\ temperature
+comment1.target=WinterMountain(int,\ int,\ int,\ double)
+comment1.text=\n\ Constructor\ for\ WinterMountain\ Class.\n
+comment2.params=
+comment2.target=double\ getTemperature()
+comment2.text=\n\ @return\ the\ temperature\n
+numComments=3

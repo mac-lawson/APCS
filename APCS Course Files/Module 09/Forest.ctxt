@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\n\ Extends\ the\ Terrain\ Class\ to\ create\ a\ Forest.\n\n\ @author\ Mac\ Lawson\n\ @version\ 2/27/23\n
+comment1.params=l\ w\ trees
+comment1.target=Forest(int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ the\ Forest\ Class\n
+comment2.params=
+comment2.target=int\ getTrees()
+comment2.text=\n\ @return\ the\ trees\n
+numComments=3

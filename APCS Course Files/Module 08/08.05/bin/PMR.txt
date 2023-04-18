@@ -1,0 +1,6 @@
+/**
+ * @author Mac Lawson
+ * Catapult Class
+ */
+
+ No issues encountered. Project was pretty straightforward. 

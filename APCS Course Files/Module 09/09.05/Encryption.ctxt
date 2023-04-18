@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Encryption
+comment0.text=\n\ By\ Cole\ Hudson\n\ Date\:\ 3/1/2015\n\ Purpose\:\ Encrypt\ and\ decrypt\ messages\ using\ a\ Caesar\ shift\ cipher\n\ \n\ PMR\ in\ README.txt\n
+comment1.params=
+comment1.target=java.lang.String\ getMessage()
+comment10.params=normalAlphabet\ shiftedAlphabet\ message
+comment10.target=java.lang.String\ encryptMessage(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getShiftKey()
+comment3.params=alphabet
+comment3.target=void\ setShiftAlphabet(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getShiftAlphabet()
+comment5.params=in
+comment5.target=Encryption(java.util.Scanner)
+comment6.params=in
+comment6.target=int\ getShiftKey(java.util.Scanner)
+comment7.params=in
+comment7.target=java.lang.String\ getMessage(java.util.Scanner)
+comment8.params=alphabet\ shiftKey
+comment8.target=java.lang.String\ generateAlphabet(java.lang.String,\ int)
+comment9.params=array
+comment9.target=java.lang.String\ stringFromCharArray(char[])
+numComments=11

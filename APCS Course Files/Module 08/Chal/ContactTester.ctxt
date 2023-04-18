@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ContactTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=contacts\ month
+comment10.target=void\ sequentialSearchByBirthday(Contact[],\ java.lang.String)
+comment11.params=contacts\ phoneNumber
+comment11.target=void\ sequentialSearchByPhoneNumber(Contact[],\ java.lang.String)
+comment12.params=contacts\ emailAddress
+comment12.target=void\ sequentialSearchByEmailAddress(Contact[],\ java.lang.String)
+comment2.params=contacts
+comment2.target=void\ printAll(Contact[])
+comment3.params=contacts
+comment3.target=void\ sortByName(Contact[])
+comment4.params=contacts
+comment4.target=void\ sortByRelation(Contact[])
+comment5.params=contacts\ name
+comment5.target=int\ searchByName(Contact[],\ java.lang.String)
+comment6.params=contacts\ name
+comment6.target=int\ binarySearchByName(Contact[],\ java.lang.String)
+comment7.params=contacts\ index\ name
+comment7.target=void\ linearPrintName(Contact[],\ int,\ java.lang.String)
+comment8.params=contacts\ relation
+comment8.target=int\ binarySearchByRelation(Contact[],\ java.lang.String)
+comment9.params=contacts\ index\ relation
+comment9.target=void\ linearPrintRelation(Contact[],\ int,\ java.lang.String)
+numComments=13

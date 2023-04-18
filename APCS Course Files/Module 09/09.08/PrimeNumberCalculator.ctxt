@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PrimeNumberCalculator
+comment1.params=lowerLimit\ upperLimit
+comment1.target=PrimeNumberCalculator(int,\ int)
+comment2.params=number
+comment2.target=boolean\ isPrime(int)
+comment3.params=
+comment3.target=void\ calculatePrimeNumbers()
+comment4.params=
+comment4.target=int\ getPrimeCount()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=OvalCylinder2
+comment0.text=\n\ OvalCylinder\ class\ extends\ Oval.\n\ \n\ Mac\ Lawson\n\ 3/2/2023\n
+comment1.params=x\ y\ rad1\ rad2\ h
+comment1.target=OvalCylinder2(int,\ int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ovalCylinder\n
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

@@ -1,0 +1,8 @@
+/**
+ * Contact.java
+ *
+ * @author Mac Lawson
+ * @version 2/07/23
+ */
+
+ No issues were encountered, use the java v4.5 Array lib. 
